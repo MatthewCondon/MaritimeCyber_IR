@@ -56,7 +56,9 @@ Upon completion, the terminal should resturn feedback indicating a successful ac
 ```
 sudo nmcli connection up "Wired connection 1"
 ```
-The output should show "Connection successfully activated" 
+The output should show that a connection was activated:
+<img width="874" height="62" alt="image" src="https://github.com/user-attachments/assets/e744fc73-8b4e-4e03-9689-3d01b5693462" />
+
 
 ### Raspberry Pi
 On the Raspberry Pi, run:
