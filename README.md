@@ -4,12 +4,7 @@
 A Raspberry Pi forensic toolkit for maritime data analysis.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [License](#license)
+
 
 ## Overview
 Explain your project briefly...
