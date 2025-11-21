@@ -3,7 +3,9 @@ Modern vessels depend on complex digital ecosystems—navigation suites, enginee
 
 A helpful way to visualize the investigative workflow is captured in the following cycle:
 
-<center><img width="400" height="354" alt="image" src="https://github.com/user-attachments/assets/c80343b0-a944-4eb0-9a12-74c2e14f4b66" /></center>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c80343b0-a944-4eb0-9a12-74c2e14f4b66" width="400" height="354" />
+</p>
 
 Beyond identifying evidence, triage guides the forensic strategy. Many maritime networks contain a mix of IT and OT systems, each with different risks and acquisition methods. A live ICS system controlling propulsion or steering cannot simply be imaged like a standard PC; investigators must evaluate the safety implications of pulling power or interfacing with controllers. Likewise, NMEA-2000 and CAN-bus devices often store data in volatile memory or proprietary buffer formats, requiring immediate capture using specialized gateways or direct bus sniffing. Early triage helps ensure the right tools—packet capture devices, write blockers, CAN-bus loggers, forensic imaging suites—are deployed appropriately.
 
