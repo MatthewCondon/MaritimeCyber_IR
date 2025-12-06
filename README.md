@@ -10,7 +10,7 @@
   - [Raspberry Pi](/Set_Up/Raspberry_Pi)
 
 ## Flow Chart
-<img width="2016" height="1262" alt="Capstone Flowchart" src="https://github.com/user-attachments/assets/7b370c5c-f44c-48d6-b6ee-62850cdc86e8" />
+<img width="4719" height="2425" alt="allflow" src="https://github.com/user-attachments/assets/f8b96384-b3fc-48db-9be6-d3317233f504" />
 
 ### Data Hierarchy
 The importance of data is:
