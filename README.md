@@ -1,7 +1,6 @@
 # Forensic Analysis of Maritime Cyber Incidents
 ## Table of Contents
 - [Voyage Data Recorder Background](/Voyage_Data_Recorder)
-- [Voyage Data Recorder Methodology](/Voyage_Data_Recorder/Data_Analysis)
 - [NMEA Background](/NMEA)
 - [NMEA Methodology](/NMEA/Data_Analysis)
 - [Computer Triage Background](/Computer_Triage)
