@@ -6,3 +6,6 @@ Multiple versions of NMEA have been produced since its creation, but the two mos
 
 ## NMEA 2000
 Released in the early 2000s, NMEA introduced a new networking standard to be implemented on all new marine equipment due to an increased number of electronic instruments on ships. Compared to NMEA 0183, the NMEA 2000 as shown in figure  \ref{fig:nmea2000}, edition enabled "plug and play" communications since it allowed for power and ground capabilities in addition to data exchange. It sends information using hexadecimal encoded data transmitted in frames using a Parameter Group Number (PGN). The PGN serves as a data identifier, using a six digit decimal number or name. The hexadecimal data is formatted to a fixed length field, allowing for data to be easily identified with either a number or name associated to each device.
+
+# NMEA Architecture
+Generally, each version of NMEA uses the same architecture during implementation. Each device serves as a network node, sending data across a central backbone. The only significant changes between topologies will be the types of devices on the network, which is specific to the vessel.
