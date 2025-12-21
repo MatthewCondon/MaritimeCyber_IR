@@ -13,9 +13,9 @@ sudo ip link set can0 up type can bitrate 250000 restart-ms 100
 _This command has no output associated with it._
 
 # Collecting Data Frames
-To collect data, the use ```candump``` with the previously created interface.
+To collect data, the use ```candump``` with the previously created interface. Save this output to a file.
 ```
-candump can0
+candump can0 > file.log
 ```
 This command has no output associated with it. To stop running the command, use Ctrl + C.
 
