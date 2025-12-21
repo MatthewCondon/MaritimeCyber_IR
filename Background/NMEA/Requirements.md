@@ -9,3 +9,5 @@ Released in the early 2000s, NMEA introduced a new networking standard to be imp
 
 # NMEA Architecture
 Generally, each version of NMEA uses the same architecture during implementation. Each device serves as a network node, sending data across a central backbone. The only significant changes between topologies will be the types of devices on the network, which is specific to the vessel.
+
+It is common to see devices on a NMEA 2000 network that still transmit NMEA 0183 data. Using an NGW-1 converter cable, NMEA 0183 data can be easily transformed into NMEA 2000 data. The NMEA 0183 data is received, parsed, and turned into the NMEA 2000 format before being sent to the vessel network backbone.
