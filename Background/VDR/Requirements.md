@@ -11,10 +11,14 @@ There are many different models of the VDR. Some are pictured below:
 <table style="border-collapse: collapse; width: 100%; background:#fff;">
   <!-- Header for first image row -->
   <tr>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 1</th>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 2</th>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 3</th>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 4</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Danelec Marine DM100
+</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">AMI Marine Float-Free VDR
+</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">JRC JCY-1900 VDR
+</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">IMO-Compliant Float-Free VDR
+</th>
   </tr>
 
   <!-- First image row -->
@@ -35,10 +39,14 @@ There are many different models of the VDR. Some are pictured below:
 
   <!-- Header for second image row -->
   <tr>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 5</th>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 6</th>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 7</th>
-    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 8</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Yacht Devices VDR
+</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Kelvin Hughes MantaDigital VDR
+</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Furuno VR-3000 Series
+</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Float-Free VDR (MV Barfleur)
+</th>
   </tr>
 
   <!-- Second image row -->
