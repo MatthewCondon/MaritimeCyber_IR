@@ -1,4 +1,4 @@
-# Settings and Configurations
+# Overview
 When collecting data, it will be in the **Compact Human-Readable** format.
 ```
   can0  09F11240   [8]  FF 69 00 FF 7F FF 7F FC
