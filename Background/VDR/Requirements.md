@@ -7,6 +7,15 @@ The VDR is mandated by the International Maritime Organization (IMO) through the
 - Passenger vessels other than RO-RO vessels produced between 7/1/2002 and 1/1/2004.
 - Vessels of 3,000 or more gross tonnage produced after 7/1/2002.
 
+# Collected Data
+There are two primary types of VDR:
+- Simplified VDR
+- VDR (Regular)
+
+Much of the information that may be collected from the VDR includes radio communication and bridge audio recordings, radar contacts images, and ship coordinate maps. However, different types of VDR will collected variations of this information. Below is the information required from the _Simplified-VDR_. All of this information can be expected on the regular VDR.
+[<img width="550" height="162" alt="image" src="https://github.com/user-attachments/assets/528f233f-a615-4344-8c4a-282319d3331b" />
+](https://cf4.ppt-online.org/files4/slide/f/fgHUe0O4ANpM2qaIJvkdzLGREX9TsixZC8luSW/slide-19.jpg)
+
 # VDR Models
 There are many different models of the VDR. Some are pictured below:
 
