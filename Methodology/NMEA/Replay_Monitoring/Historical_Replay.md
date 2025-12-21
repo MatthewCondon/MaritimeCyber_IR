@@ -1,5 +1,5 @@
 # Overview
-To replay historical data, in must be in the **Raw SocketCAN** format.
+To replay historical data, it must be in the **Raw SocketCAN** format.
 
 ```
 (1759512073.077585) can0 09F20540#00FCAC0D1B0E00FF
