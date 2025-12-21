@@ -9,14 +9,16 @@ The VDR is mandated by the International Maritime Organization (IMO) through the
 There are many different models of the VDR. Some are pictured below:
 
 <table style="border-collapse: collapse; width: 100%; background:#fff;">
-  <tr style="background:#fff;">
+  <!-- Header for first image row -->
+  <tr>
     <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 1</th>
     <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 2</th>
     <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 3</th>
     <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 4</th>
   </tr>
 
-  <tr style="background:#fff;">
+  <!-- First image row -->
+  <tr>
     <td style="background:#fff; border:1px solid #000; padding:12px; text-align:center;">
       <img src="https://img.nauticexpo.com/images_ne/photo-g/30902-6996335.jpg" width="200">
     </td>
@@ -31,7 +33,16 @@ There are many different models of the VDR. Some are pictured below:
     </td>
   </tr>
 
-  <tr style="background:#fff;">
+  <!-- Header for second image row -->
+  <tr>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 5</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 6</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 7</th>
+    <th style="background:#fff; color:#000; border:1px solid #000; padding:8px;">Image 8</th>
+  </tr>
+
+  <!-- Second image row -->
+  <tr>
     <td style="background:#fff; border:1px solid #000; padding:12px; text-align:center;">
       <img src="https://tse3.mm.bing.net/th/id/OIP.6gucnAiPxucWoKFZ2Shg-wHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="200">
     </td>
