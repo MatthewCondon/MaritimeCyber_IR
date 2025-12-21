@@ -1,12 +1,20 @@
 # Forensic Analysis of Maritime Cyber Incidents
 ## Table of Contents
-- [Voyage Data Recorder Background](/Voyage_Data_Recorder)
-- [NMEA Background](/NMEA)
-- [NMEA Methodology](/NMEA/Data_Analysis)
-- [Computer Triage Background](/Computer_Triage)
-- [Computer Triage Methodology](/Computer_Triage)
-- Set-Up and Tools
-  - [Raspberry Pi](/Set_Up/Raspberry_Pi)
+### Background
+- [Voyage Data Recorder Background](/Background/VDR)
+- [NMEA Background](/Background/NMEA  )
+- [Triage Background](/Background/Triage)
+
+### Methodology
+- [Voyage Data Recorder Methodology](/Methodology/VDR)
+- [NMEA Methodology](/Methodology/NMEA)
+- [Triage Methodology](/Methodology/Triage)
+
+### Tools
+- [Raspberry Pi Forensic Computer](/Tools/Raspberry_Pi/)
+- [FTK Imager](/Tools/FTK_Imager)
+- [Autopsy](/Tools/Autopsy)
+
 
 ## Flow Chart
 <img width="4719" height="2425" alt="Capstone Flow Chart new (3)" src="https://github.com/user-attachments/assets/68d35ccd-14a9-4688-b61b-01d686aaff7a" />
