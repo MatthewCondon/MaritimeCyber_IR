@@ -6,4 +6,4 @@ The VDR processes these inputs by time-stamping and organizing them into a conti
 
 # Data Example
 Much of the information that may be collected from the VDR includes radio communication and bridge audio recordings, radar contacts images, and ship coordinate maps. An example of extracted VDR data is pictured below:
-![](https://www.mdpi.com/jmse/jmse-11-00267/article_deploy/html/images/jmse-11-00267-g003-550.jpg)
+<img width="550" height="162" alt="image" src="https://github.com/user-attachments/assets/528f233f-a615-4344-8c4a-282319d3331b" />
