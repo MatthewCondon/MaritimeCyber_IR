@@ -1,4 +1,4 @@
-Similar to the ``black box'' flight recorder on aircraft which stores flight logs and data, the Voyage Data Recorder (VDR) has been outfitted on vessels to track marine-equivalent information. It was mandated on vessels due to a large number of vessels lost at sea with minimal explanation and increased pressure from the maritime community. There are many different models of the VDR, each with different features and specifications.
+Similar to the "black box" flight recorder on aircraft which stores flight logs and data, the Voyage Data Recorder (VDR) has been outfitted on vessels to track marine-equivalent information. It was mandated on vessels due to a large number of vessels lost at sea with minimal explanation and increased pressure from the maritime community. There are many different models of the VDR, each with different features and specifications.
 
 The VDR is mandated by the International Maritime Organization (IMO) through the Safety of Life at Sea regulations for vessels that meet any of the following requirements:
 - Passenger vessels produced after 7/1/2002.
