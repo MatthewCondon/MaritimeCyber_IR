@@ -20,7 +20,7 @@ sudo ip link set can0 txqueuelen 10000
 _This command has no output associated with it._
 
 # Sending NMEA Frames
-After converting the data into the Raw SocketCAN format, place it into a file. Using **canplayer**, send the data file onto the NMEA backbone.
+After the data is converted into the Raw SocketCAN format, place it into a file. Using ```canplayer```, send the data file onto the NMEA backbone.
 ```
 canplayer -I file.log -t
 ```
