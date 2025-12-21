@@ -8,6 +8,7 @@ The VDR is mandated by the International Maritime Organization (IMO) through the
 - Vessels of 3,000 or more gross tonnage produced after 7/1/2002.
 
 # VDR Types
+Simplified vs Regular VDR specs
 
 # VDR Models
 There are many different models of the VDR. Some are pictured below:
