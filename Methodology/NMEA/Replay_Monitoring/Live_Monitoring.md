@@ -17,3 +17,5 @@ To collect data, the use ```candump``` with the previously created interface.
 ```
 candump can0
 ```
+This command has no output associated with it. To stop running the command, use Ctrl + C.
+
