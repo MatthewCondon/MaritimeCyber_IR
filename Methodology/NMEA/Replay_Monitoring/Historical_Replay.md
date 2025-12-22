@@ -19,6 +19,16 @@ sudo ip link set can0 txqueuelen 10000
 ```
 _This command has no output associated with it._
 
+# Ensuring Interface Status
+Once the interface has been set, it is important to ensure it is ```UP``` and ready to process data with the Raspberry Pi.
+```
+ip -details link show can0
+```
+_This command has output. The relevant detail is:_
+```
+4: can0: <NOARP,UP,LOWER_UP,ECHO> mtu 16 qdisc pfifo_fast state UP mode DEFAULT group default qlen 10
+```
+
 # Sending NMEA Frames
 After the data is converted into the Raw SocketCAN format, place it into a file. Using ```canplayer```, send the data file onto the NMEA backbone.
 ```
