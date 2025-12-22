@@ -22,12 +22,21 @@ _This command has output. The relevant detail is:_
 4: can0: <NOARP,UP,LOWER_UP,ECHO> mtu 16 qdisc pfifo_fast state UP mode DEFAULT group default qlen 10
 ```
 
-# Collecting Data Frames
-To collect data, the use ```candump``` with the previously created interface. Save this output to a file.
+# Collecting Data
+## Compact Human-Readable Frames
+To collect data, use ```candump``` with the previously created interface. Save this output to a file.
 ```
 candump can0 > file.log
 ```
 This command has no output associated with it. To stop running the command, use Ctrl + C.
+
+## Raw SocketCAN Frames
+To collect data, use ```candump -L``` with the previously created interface. Save this output to a file.
+```
+candump -L can0 > file.log
+```
+This command has no output associated with it. To stop running the command, use Ctrl + C.
+
 
 # Monitoring Analysis
 When collecting live data, look for abnormal behavior by devices, such as certain frames being repeated too many times on the interface when compared to others.
