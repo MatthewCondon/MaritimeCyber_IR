@@ -1,8 +1,6 @@
 # Overview
 When analyzing a ECDIS or VEGA Computer, the file system will likely be different from a general-use system. The below folders were identified during methodology development that detail information and files that may exist in the system.
 
-# Folder Breakdown
-
 ---
 
 ## Announcements
