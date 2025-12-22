@@ -19,3 +19,7 @@ candump can0 > file.log
 ```
 This command has no output associated with it. To stop running the command, use Ctrl + C.
 
+# Monitoring Analysis
+When collecting live data, look for abnormal behavior by devices, such as certain frames being repeated too many times on the interface when compared to others.
+
+Most equipment on the vessel should still be operational. By connecting to the live NMEA backbone, it is important to determine if any equipment is not sending any frames or sending incorrect frames. This may indicate equipment that has malfunctioned and requires closer inspection.
