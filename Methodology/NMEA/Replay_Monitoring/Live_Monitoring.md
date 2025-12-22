@@ -5,12 +5,22 @@ When collecting data, it will be in the **Compact Human-Readable** format.
 ```
 
 # Setting the Interface
-A connection to the interfaceis necessary to collect live data. 
+A connection to the interface is necessary to collect live data. 
 Create the interface and set the necessary bit rate for NMEA 2000 networks. The restart occurs in the event an off-string is sent the network needs to be restarted.
 ```
 sudo ip link set can0 up type can bitrate 250000 restart-ms 100
 ```
 _This command has no output associated with it._
+
+# Ensuring Interface Status
+Once the interface has been set, it is important to ensure it is ```UP``` and ready to process data with the Raspberry Pi.
+```
+ip -details link show can0
+```
+_This command has output. The relevant detail is:_
+```
+4: can0: <NOARP,UP,LOWER_UP,ECHO> mtu 16 qdisc pfifo_fast state UP mode DEFAULT group default qlen 10
+```
 
 # Collecting Data Frames
 To collect data, the use ```candump``` with the previously created interface. Save this output to a file.
