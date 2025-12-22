@@ -27,3 +27,6 @@ canplayer -I file.log -t
 _This command has no output associated with it. To stop running the command, use ```Ctrl + C```._
 
 The boat should begin replaying data at this time. All display systems will show the relevant information from the data file.
+
+# Replay Analysis
+When running data through the NMEA backbone, watch the displays for any abnormal behavior. Compare the information shown on different displays, such as equipment displays directly connected to machinery to monitors on the bridge.
