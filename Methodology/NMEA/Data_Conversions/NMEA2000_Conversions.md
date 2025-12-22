@@ -1,0 +1,28 @@
+# Overview
+When working with NMEA 2000 data, there are three formats that may be collected.
+
+## Raw SocketCAN
+```
+(1765905989.266590) can0 09F8012B#FFFFFF7FFFFFFF7F
+```
+
+## Compact Human-Readable
+```
+can0  09F8012B   [8]  FF FF FF 7F FF FF FF 7F
+```
+## CSV
+```
+2025-12-16-17:22:40.967,2,129025,43,255,8,ff,ff,ff,7f,ff,ff,ff,7f
+```
+
+# Converting Data Formats
+The relevant conversions for an investigation are shown below.
+
+## Raw SocketCAN > CSV
+```
+candump2analyzer < CAN.log > CSV.log
+```
+_This command has no output associated with it._
+
+## Compact Human-Readable > Raw SocketCAN
+This must be transformed during the collection process.
