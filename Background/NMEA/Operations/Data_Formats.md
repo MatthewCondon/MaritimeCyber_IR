@@ -44,7 +44,7 @@ $PSHI,001,39.308708,,167,-68,163838.99,0,1474,-68*10
 (1765905989.674598) can0 15FD072A#3CC3FFFFFF7FFFFF
 ```
 
-## Compact-Human Readable
+## Compact Human-Readable
 
 ```
   can0  09F8012B   [8]  FF FF FF 7F FF FF FF 7F
